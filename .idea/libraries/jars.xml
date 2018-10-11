@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/hk2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/hk2-locator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/hk2-utils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/javax.inject.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/javax.ws.rs-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jersey-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jersey-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars/jersey-guava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
