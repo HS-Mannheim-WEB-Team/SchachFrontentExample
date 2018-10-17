@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SchachFrontentExample.iml" filepath="$PROJECT_DIR$/SchachFrontentExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SchachFrontendExample.iml" filepath="$PROJECT_DIR$/.idea/modules/SchachFrontendExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SchachFrontendExample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SchachFrontendExample_main.iml" group="SchachFrontendExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SchachFrontendExample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SchachFrontendExample_test.iml" group="SchachFrontendExample" />
     </modules>
   </component>
 </project>
